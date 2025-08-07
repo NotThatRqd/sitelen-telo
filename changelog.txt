@@ -1,0 +1,44 @@
+1.00 10/13/2020
+- initial release
+
+1.01 10/14/2020
+- new glphs for: meli, mije, sona, mi
+- reassigned: mije->majuna, mi->lawa
+- slightly simplified mama 
+- vertically mirrored the leaves of the plant group (objects, not people)
+- adjusted spacing and alignment in some glyphs to font
+- corrected typos in documentation
+
+1.02 8/6/2025
+changes to the font:
+- moved all linja telo symbols to the correct codepoint according to sitelen pona UCSUR standards
+    * itomi, pa, pata, sutopatikuna, and alu don't have standardized codepoints in the UCSUR sitelen pona standard, I've set them to U+FFB49, U+FFB66, U+FFAE5, U+FFAFB, U+FFB40, matching what the Fairfax font does for these words
+    * removed redundant "ee", "ii", "uu" glyphs
+    * moved "a" glyph giving it a primary codepoint matching UCSUR and an alternate codepoint to lowercase latin letter a
+    * moved "o" glyph giving it a primary codepoint matching UCSUR and an alternate codepoint to lowercase latin letter o
+- moved "period" glyph giving it primary codepoint of SITELEN PONA MIDDLE DOT and an alternate codepoint to FULL STOP (.)
+- moved "colon" glyph giving it primary codepoint of SITELEN PONA COLON and an alternate codepoint to COLON (:)
+- added glyphs for vertical presentation forms of colon, semicolon, exclamation mark, question mark, ideographic full stop, ideographic comma
+- removed ligatures that combine certain words such as seme followed by a question mark into looking like seme and a period
+- removed codepoint association from "extraspace" and other punctuation ligatures (still accessible via ligatures)
+- added ligatures that are ucsur friendly
+    * for example "eni" glyph can be accessed via "e" + "ni" or "e" + "n" + "i" now, previously was only "e" + "n" + "i"
+- removed "test" glyph that looked the same as the "pan" glyph
+- added dedicated glyphs for linja sin that have a trailing n for better vertical support
+- simplified naming of linja sin N consonant glyphs, "N" is the starting consonant and "trailingn" is the trailing consonant
+    * "N" has an alternate codepoint to uppercase latin letter N
+    * "trailingn" can be accessed via ligature "N" + "N"
+- moved individual linja sin consonant glyphs J, K, L, M, N, P, S, T, W, to U+EE00 to U+EE08 with alternate codepoints to their uppercase latin equivalents
+- moved individual linja sin vowel glyphs A, E, I, O, U, to U+EE10 to U+EE14 with alternate codepoints to their uppercase latin equivalents
+- moved "trailingn" to U+EE20
+- moved all linja sin glyphs to new codepoints using this formula:
+    * codepoint = S_base + (l_idx * N_V * N_T) + (v_idx * N_T) + t_idx
+    * S_base is the starting point of where all the linja sin glyphs are located (it's equal to U+EF00)
+    * l_idx is the index of the starting consonant
+    * v_idx is the index of the medial vowel
+    * t_idx is the index of the trailing consonant (0 is none, 1 is trailing N)
+    * N_V is the number of vowels
+    * N_T is the number of trailing consonants (2 because it is including the case where there is none)
+    * this is modeled off of how it is done for Korean Hangul
+additional changes:
+- convert the main document to use ODT instead of DOCX and update parts about the font
