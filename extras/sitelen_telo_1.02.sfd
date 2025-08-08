@@ -242,7 +242,7 @@ Validated: 1
 EndChar
 
 StartChar: E
-Encoding: 38 60945 8
+Encoding: 38 60946 8
 AltUni2: 000045.ffffffff.0
 Width: 485
 GlyphClass: 3
@@ -354,7 +354,7 @@ Validated: 1
 EndChar
 
 StartChar: I
-Encoding: 42 60946 12
+Encoding: 42 60948 12
 AltUni2: 000049.ffffffff.0
 Width: 353
 GlyphClass: 3
@@ -517,7 +517,7 @@ Validated: 1
 EndChar
 
 StartChar: O
-Encoding: 48 60947 17
+Encoding: 48 60950 17
 AltUni2: 00004f.ffffffff.0
 Width: 678
 GlyphClass: 3
@@ -716,7 +716,7 @@ Validated: 33
 EndChar
 
 StartChar: U
-Encoding: 54 60948 23
+Encoding: 54 60952 23
 AltUni2: 000055.ffffffff.0
 Width: 640
 GlyphClass: 3
@@ -9687,7 +9687,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" W i l e
 EndChar
 
 StartChar: JA
-Encoding: 251 61184 244
+Encoding: 251 60954 244
 Width: 677
 GlyphClass: 3
 Flags: W
@@ -9732,7 +9732,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J A
 EndChar
 
 StartChar: JE
-Encoding: 252 61186 245
+Encoding: 252 60956 245
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -9798,7 +9798,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J E
 EndChar
 
 StartChar: JI
-Encoding: 253 61188 246
+Encoding: 253 60958 246
 Width: 500
 GlyphClass: 3
 Flags: W
@@ -9821,7 +9821,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J I
 EndChar
 
 StartChar: JO
-Encoding: 254 61190 247
+Encoding: 254 60960 247
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -9886,7 +9886,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J O
 EndChar
 
 StartChar: JU
-Encoding: 255 61192 248
+Encoding: 255 60962 248
 Width: 725
 GlyphClass: 3
 Flags: W
@@ -9936,7 +9936,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J U
 EndChar
 
 StartChar: KA
-Encoding: 256 61194 249
+Encoding: 256 60964 249
 Width: 725
 GlyphClass: 3
 Flags: W
@@ -9977,7 +9977,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K A
 EndChar
 
 StartChar: KE
-Encoding: 257 61196 250
+Encoding: 257 60966 250
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -10029,7 +10029,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K E
 EndChar
 
 StartChar: KI
-Encoding: 258 61198 251
+Encoding: 258 60968 251
 Width: 630
 GlyphClass: 3
 Flags: W
@@ -10070,7 +10070,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K I
 EndChar
 
 StartChar: KO
-Encoding: 259 61200 252
+Encoding: 259 60970 252
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -10121,7 +10121,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K O
 EndChar
 
 StartChar: KU
-Encoding: 260 61202 253
+Encoding: 260 60972 253
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -10162,7 +10162,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K U
 EndChar
 
 StartChar: LA
-Encoding: 261 61204 254
+Encoding: 261 60974 254
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -10207,7 +10207,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L A
 EndChar
 
 StartChar: LE
-Encoding: 262 61206 255
+Encoding: 262 60976 255
 Width: 727
 GlyphClass: 3
 Flags: W
@@ -10255,7 +10255,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L E
 EndChar
 
 StartChar: LI
-Encoding: 263 61208 256
+Encoding: 263 60978 256
 Width: 739
 GlyphClass: 3
 Flags: W
@@ -10296,7 +10296,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L I
 EndChar
 
 StartChar: LO
-Encoding: 264 61210 257
+Encoding: 264 60980 257
 Width: 789
 GlyphClass: 3
 Flags: W
@@ -10347,7 +10347,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L O
 EndChar
 
 StartChar: LU
-Encoding: 265 61212 258
+Encoding: 265 60982 258
 Width: 719
 GlyphClass: 3
 Flags: W
@@ -10395,7 +10395,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L U
 EndChar
 
 StartChar: MA
-Encoding: 266 61214 259
+Encoding: 266 60984 259
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -10446,7 +10446,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M A
 EndChar
 
 StartChar: ME
-Encoding: 267 61216 260
+Encoding: 267 60986 260
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -10498,7 +10498,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M E
 EndChar
 
 StartChar: MI
-Encoding: 268 61218 261
+Encoding: 268 60988 261
 Width: 702
 GlyphClass: 3
 Flags: W
@@ -10549,7 +10549,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M I
 EndChar
 
 StartChar: MO
-Encoding: 269 61220 262
+Encoding: 269 60990 262
 Width: 788
 GlyphClass: 3
 Flags: W
@@ -10605,7 +10605,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M O
 EndChar
 
 StartChar: MU
-Encoding: 270 61222 263
+Encoding: 270 60992 263
 Width: 773
 GlyphClass: 3
 Flags: W
@@ -10654,7 +10654,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M U
 EndChar
 
 StartChar: NA
-Encoding: 271 61224 264
+Encoding: 271 60994 264
 Width: 698
 GlyphClass: 3
 Flags: W
@@ -10708,7 +10708,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N A
 EndChar
 
 StartChar: NE
-Encoding: 272 61226 265
+Encoding: 272 60996 265
 Width: 732
 GlyphClass: 3
 Flags: W
@@ -10765,7 +10765,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N E
 EndChar
 
 StartChar: NI
-Encoding: 273 61228 266
+Encoding: 273 60998 266
 Width: 609
 GlyphClass: 3
 Flags: W
@@ -10852,7 +10852,7 @@ Validated: 1
 EndChar
 
 StartChar: NO
-Encoding: 275 61230 268
+Encoding: 275 61000 268
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -10915,7 +10915,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N O
 EndChar
 
 StartChar: NU
-Encoding: 276 61232 269
+Encoding: 276 61002 269
 Width: 633
 GlyphClass: 3
 Flags: W
@@ -10972,7 +10972,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N U
 EndChar
 
 StartChar: PA
-Encoding: 277 61234 270
+Encoding: 277 61004 270
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -11021,7 +11021,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P A
 EndChar
 
 StartChar: PE
-Encoding: 278 61236 271
+Encoding: 278 61006 271
 Width: 722
 GlyphClass: 3
 Flags: W
@@ -11082,7 +11082,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P E
 EndChar
 
 StartChar: PI
-Encoding: 279 61238 272
+Encoding: 279 61008 272
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -11125,7 +11125,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P I
 EndChar
 
 StartChar: PO
-Encoding: 280 61240 273
+Encoding: 280 61010 273
 Width: 735
 GlyphClass: 3
 Flags: W
@@ -11183,7 +11183,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P O
 EndChar
 
 StartChar: PU
-Encoding: 281 61242 274
+Encoding: 281 61012 274
 Width: 738
 GlyphClass: 3
 Flags: W
@@ -11233,7 +11233,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P U
 EndChar
 
 StartChar: SA
-Encoding: 282 61244 275
+Encoding: 282 61014 275
 Width: 687
 GlyphClass: 3
 Flags: W
@@ -11277,7 +11277,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S A
 EndChar
 
 StartChar: SE
-Encoding: 283 61246 276
+Encoding: 283 61016 276
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -11330,7 +11330,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S E
 EndChar
 
 StartChar: SI
-Encoding: 284 61248 277
+Encoding: 284 61018 277
 Width: 695
 GlyphClass: 3
 Flags: W
@@ -11370,7 +11370,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S I
 EndChar
 
 StartChar: SO
-Encoding: 285 61250 278
+Encoding: 285 61020 278
 Width: 654
 GlyphClass: 3
 Flags: W
@@ -11417,7 +11417,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S O
 EndChar
 
 StartChar: SU
-Encoding: 286 61252 279
+Encoding: 286 61022 279
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -11468,7 +11468,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S U
 EndChar
 
 StartChar: TA
-Encoding: 287 61254 280
+Encoding: 287 61024 280
 Width: 646
 GlyphClass: 3
 Flags: W
@@ -11519,7 +11519,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T A
 EndChar
 
 StartChar: TE
-Encoding: 288 61256 281
+Encoding: 288 61026 281
 Width: 631
 GlyphClass: 3
 Flags: W
@@ -11573,7 +11573,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T E
 EndChar
 
 StartChar: TI
-Encoding: 289 61258 282
+Encoding: 289 61028 282
 Width: 500
 GlyphClass: 3
 Flags: W
@@ -11596,7 +11596,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T I
 EndChar
 
 StartChar: TO
-Encoding: 290 61260 283
+Encoding: 290 61030 283
 Width: 654
 GlyphClass: 3
 Flags: W
@@ -11652,7 +11652,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T O
 EndChar
 
 StartChar: TU
-Encoding: 291 61262 284
+Encoding: 291 61032 284
 Width: 633
 GlyphClass: 3
 Flags: W
@@ -11701,7 +11701,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T U
 EndChar
 
 StartChar: WA
-Encoding: 293 61264 285
+Encoding: 293 61034 285
 Width: 816
 GlyphClass: 3
 Flags: W
@@ -11737,7 +11737,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" W A
 EndChar
 
 StartChar: WE
-Encoding: 294 61266 286
+Encoding: 294 61036 286
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -11781,7 +11781,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" W E
 EndChar
 
 StartChar: WI
-Encoding: 295 61268 287
+Encoding: 295 61038 287
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -11813,7 +11813,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" W I
 EndChar
 
 StartChar: WO
-Encoding: 296 61270 288
+Encoding: 296 61040 288
 Width: 500
 GlyphClass: 3
 Flags: W
@@ -11836,7 +11836,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" W O
 EndChar
 
 StartChar: WU
-Encoding: 297 61272 289
+Encoding: 297 61042 289
 Width: 500
 GlyphClass: 3
 Flags: W
@@ -12466,7 +12466,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t o n s i
 EndChar
 
 StartChar: trailingn
-Encoding: 308 60960 300
+Encoding: 308 60937 300
 Width: 343
 GlyphClass: 3
 Flags: W
@@ -12505,8 +12505,8 @@ SplineSet
  -48 667 -18 675 30 653 c 5
 EndSplineSet
 Validated: 33
-LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N N
+LCarets2: 1 0
 EndChar
 
 StartChar: sutopatikuna
@@ -12960,7 +12960,7 @@ EndSplineSet
 EndChar
 
 StartChar: JAN
-Encoding: 320 61185 312
+Encoding: 320 60955 312
 Width: 878
 Flags: W
 VStem: 605 92<48.335 455.53> 616 81<14 326.562> 761 94<259.841 393.347> 761 83<365.238 446.422> 772 79<227.273 256.44>
@@ -13034,7 +13034,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J A N
 EndChar
 
 StartChar: JEN
-Encoding: 321 61187 313
+Encoding: 321 60957 313
 Width: 958
 Flags: W
 HStem: 69 84<384 463.922> 190 78<384 446.723>
@@ -13130,7 +13130,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J E N
 EndChar
 
 StartChar: JON
-Encoding: 322 61191 314
+Encoding: 322 60961 314
 Width: 954
 Flags: W
 HStem: -16 91<312 387.163>
@@ -13225,7 +13225,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J O N
 EndChar
 
 StartChar: JUN
-Encoding: 323 61193 315
+Encoding: 323 60963 315
 Width: 959
 Flags: W
 VStem: 306 85<97.5938 110.673 111.888 271.912> 480 106<456.175 553.672> 496 90<456.175 554> 668 92<80.9475 455.53> 679 81<14 326.562> 824 94<259.841 393.347> 824 83<365.238 446.422> 835 79<227.273 256.44>
@@ -13304,7 +13304,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" J U N
 EndChar
 
 StartChar: KAN
-Encoding: 324 61195 316
+Encoding: 324 60965 316
 Width: 941
 Flags: W
 VStem: 667 92<54.335 461.53> 678 81<20 332.562> 823 94<265.841 399.347> 823 83<371.238 452.422> 834 79<233.273 262.44>
@@ -13374,7 +13374,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K A N
 EndChar
 
 StartChar: KEN
-Encoding: 325 61197 317
+Encoding: 325 60967 317
 Width: 912
 Flags: W
 HStem: 372 116<39.437 116.004>
@@ -13456,7 +13456,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K E N
 EndChar
 
 StartChar: KIN
-Encoding: 326 61199 318
+Encoding: 326 60969 318
 Width: 864
 Flags: W
 VStem: 589 92<48.335 455.53> 600 81<14 326.562> 745 94<259.841 393.347> 745 83<365.238 446.422> 756 79<227.273 256.44>
@@ -13526,7 +13526,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K I N
 EndChar
 
 StartChar: KON
-Encoding: 327 61201 319
+Encoding: 327 60971 319
 Width: 939
 Flags: W
 HStem: -21 87<31 72.5434> 233 86<429.527 499.779>
@@ -13607,7 +13607,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K O N
 EndChar
 
 StartChar: KUN
-Encoding: 328 61203 320
+Encoding: 328 60973 320
 Width: 879
 Flags: W
 HStem: 424 96<64.5593 135.461>
@@ -13678,7 +13678,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" K U N
 EndChar
 
 StartChar: LAN
-Encoding: 329 61205 321
+Encoding: 329 60975 321
 Width: 957
 Flags: W
 HStem: 356 72<549.663 611>
@@ -13753,7 +13753,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L A N
 EndChar
 
 StartChar: LEN
-Encoding: 330 61207 322
+Encoding: 330 60977 322
 Width: 973
 Flags: W
 HStem: 5 100<401.323 430.393 432.542 508.408>
@@ -13831,7 +13831,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L E N
 EndChar
 
 StartChar: LIN
-Encoding: 331 61209 323
+Encoding: 331 60979 323
 Width: 970
 Flags: W
 VStem: 329 95<-16.3281 302> 688 92<48.335 455.53> 699 81<14 326.562> 844 94<259.841 393.347> 844 83<365.238 446.422> 855 79<227.273 256.44>
@@ -13901,7 +13901,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L I N
 EndChar
 
 StartChar: LON
-Encoding: 332 61211 324
+Encoding: 332 60981 324
 Width: 1017
 Flags: W
 HStem: -21 102<357 418.816> 33 72<442.312 465> 357 42<632.297 670.688>
@@ -13982,7 +13982,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L O N
 EndChar
 
 StartChar: LUN
-Encoding: 333 61213 325
+Encoding: 333 60983 325
 Width: 923
 Flags: W
 HStem: -23 85<351.234 442.216> 391 90<474.567 561.91> 391 58<545.472 563>
@@ -14060,7 +14060,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" L U N
 EndChar
 
 StartChar: MAN
-Encoding: 334 61215 326
+Encoding: 334 60985 326
 Width: 996
 Flags: W
 VStem: 16 103<152.377 387> 23 96<9.27905 71.6243 73.4495 126.756 128.449 387> 723 92<48.335 455.53> 734 81<14 326.562> 879 94<259.841 393.347> 879 83<365.238 446.422> 890 79<227.273 256.44>
@@ -14140,7 +14140,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M A N
 EndChar
 
 StartChar: MEN
-Encoding: 335 61217 327
+Encoding: 335 60987 327
 Width: 948
 Flags: W
 HStem: 182 116<303.885 355.754> 575 72<402 450.276>
@@ -14222,7 +14222,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M E N
 EndChar
 
 StartChar: MIN
-Encoding: 336 61219 328
+Encoding: 336 60989 328
 Width: 936
 Flags: W
 VStem: 1 92<198.567 264 264.003 380.804> 15 78<20.3975 135 135.001 160.718 161.842 264 264.003 277.03> 233 93<285 455.446> 476 88<98.8884 154.999 155 539.018> 655 92<48.335 455.53> 666 81<14 326.562> 811 94<259.841 393.347> 811 83<365.238 446.422> 822 79<227.273 256.44>
@@ -14302,7 +14302,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M I N
 EndChar
 
 StartChar: MON
-Encoding: 337 61221 329
+Encoding: 337 60991 329
 Width: 995
 Flags: W
 HStem: -14 21G<60 83> 251 5<11.0015 12.6867> 324 107<340.072 383>
@@ -14388,7 +14388,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M O N
 EndChar
 
 StartChar: MUN
-Encoding: 338 61223 330
+Encoding: 338 60993 330
 Width: 974
 Flags: W
 HStem: 558 63<414.858 496.738>
@@ -14467,7 +14467,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" M U N
 EndChar
 
 StartChar: NAN
-Encoding: 339 61225 331
+Encoding: 339 60995 331
 Width: 890
 Flags: W
 HStem: 222 114<47.7194 179>
@@ -14551,7 +14551,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N A N
 EndChar
 
 StartChar: NEN
-Encoding: 340 61227 332
+Encoding: 340 60997 332
 Width: 948
 Flags: W
 HStem: -16 21G<334.5 357> 41 109<401 458.349> 424 121<211.211 287 287.003 292>
@@ -14638,7 +14638,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N E N
 EndChar
 
 StartChar: NIN
-Encoding: 341 61229 333
+Encoding: 341 60999 333
 Width: 858
 Flags: W
 HStem: 351 77<60.9048 238.612>
@@ -14715,7 +14715,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N I N
 EndChar
 
 StartChar: NON
-Encoding: 343 61231 334
+Encoding: 343 61001 334
 Width: 909
 Flags: W
 HStem: 13 52<330.236 383.531> 249 105<27.8734 104.519>
@@ -14808,7 +14808,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N O N
 EndChar
 
 StartChar: NUN
-Encoding: 344 61233 335
+Encoding: 344 61003 335
 Width: 837
 Flags: W
 HStem: 305 91<379.934 488.53> 379 119<169.531 243.786>
@@ -14895,7 +14895,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" N U N
 EndChar
 
 StartChar: PAN
-Encoding: 345 61235 336
+Encoding: 345 61005 336
 Width: 969
 Flags: W
 VStem: 179 98<489 651.721> 500 114<392.666 491.762> 693 92<48.335 455.53> 704 81<14 326.562> 849 94<259.841 393.347> 849 83<365.238 446.422> 860 79<227.273 256.44>
@@ -14973,7 +14973,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P A N
 EndChar
 
 StartChar: PEN
-Encoding: 346 61237 337
+Encoding: 346 61007 337
 Width: 977
 Flags: W
 HStem: 17 52<3.94003 22.2761> 253 102<478 527.456> 401 97<239.08 299.821>
@@ -15064,7 +15064,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P E N
 EndChar
 
 StartChar: PIN
-Encoding: 347 61239 338
+Encoding: 347 61009 338
 Width: 966
 Flags: W
 VStem: 187 77<505.227 616.014> 335 99<7.35971 401> 505 115<435.141 494> 688 92<48.335 455.53> 699 81<14 326.562> 844 94<259.841 393.347> 844 83<365.238 446.422> 855 79<227.273 256.44>
@@ -15136,7 +15136,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P I N
 EndChar
 
 StartChar: PON
-Encoding: 348 61241 339
+Encoding: 348 61011 339
 Width: 963
 Flags: W
 VStem: 120 99<509.003 648.89> 493 115<444.801 503.065> 682 92<48.335 455.53> 693 81<14 326.562> 838 94<259.841 393.347> 838 83<365.238 446.422> 849 79<227.273 256.44>
@@ -15223,7 +15223,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P O N
 EndChar
 
 StartChar: PUN
-Encoding: 349 61243 340
+Encoding: 349 61013 340
 Width: 993
 Flags: W
 VStem: 167 96<484.708 485.999 488.24 626.803> 284 112<139 310.389> 530 112<433.447 486> 715 92<48.335 455.53> 726 81<14 326.562> 871 94<259.841 393.347> 871 83<365.238 446.422> 882 79<227.273 256.44>
@@ -15302,7 +15302,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" P U N
 EndChar
 
 StartChar: SAN
-Encoding: 350 61245 341
+Encoding: 350 61015 341
 Width: 882
 Flags: W
 VStem: 601 92<48.335 455.53> 612 81<14 326.562> 757 94<259.841 393.347> 757 83<365.238 446.422> 768 79<227.273 256.44>
@@ -15375,7 +15375,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S A N
 EndChar
 
 StartChar: SEN
-Encoding: 351 61247 342
+Encoding: 351 61017 342
 Width: 930
 Flags: W
 VStem: 652 92<48.335 455.53> 663 81<14 326.562> 808 94<259.841 393.347> 808 83<365.238 446.422> 819 79<227.273 256.44>
@@ -15457,7 +15457,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S E N
 EndChar
 
 StartChar: SIN
-Encoding: 352 61249 343
+Encoding: 352 61019 343
 Width: 914
 Flags: W
 HStem: 368 112<432.522 521.167> 491 130<180.9 242.321>
@@ -15527,7 +15527,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S I N
 EndChar
 
 StartChar: SON
-Encoding: 353 61251 344
+Encoding: 353 61021 344
 Width: 864
 Flags: W
 HStem: 64 51<341 410> 566 104<290.303 410.685>
@@ -15604,7 +15604,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S O N
 EndChar
 
 StartChar: SUN
-Encoding: 354 61253 345
+Encoding: 354 61023 345
 Width: 924
 Flags: W
 HStem: 372 60<525.641 567.387>
@@ -15685,7 +15685,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" S U N
 EndChar
 
 StartChar: TAN
-Encoding: 355 61255 346
+Encoding: 355 61025 346
 Width: 853
 Flags: W
 HStem: 523 103<311.977 418.482>
@@ -15766,7 +15766,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T A N
 EndChar
 
 StartChar: TEN
-Encoding: 356 61257 347
+Encoding: 356 61027 347
 Width: 883
 Flags: W
 HStem: 67 100<335.25 403.514>
@@ -15850,7 +15850,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T E N
 EndChar
 
 StartChar: TON
-Encoding: 357 61261 348
+Encoding: 357 61031 348
 Width: 897
 Flags: W
 HStem: 0 73<209 315.708> 209 93<327.643 375> 474 105<52.9785 151.346>
@@ -15936,7 +15936,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T O N
 EndChar
 
 StartChar: TUN
-Encoding: 358 61263 349
+Encoding: 358 61033 349
 Width: 919
 Flags: W
 HStem: -14 21G<204 277.071> 262 92<328.11 394.506>
@@ -16015,7 +16015,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" T U N
 EndChar
 
 StartChar: WEN
-Encoding: 359 61267 350
+Encoding: 359 61037 350
 Width: 933
 Flags: W
 HStem: 286 125<349.719 445.774> 373 106<17.125 130>
@@ -16089,7 +16089,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" W E N
 EndChar
 
 StartChar: WIN
-Encoding: 360 61269 351
+Encoding: 360 61039 351
 Width: 972
 Flags: W
 HStem: 558 110<475 544.72>
@@ -16151,7 +16151,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" W I N
 EndChar
 
 StartChar: WAN
-Encoding: 342 61265 352
+Encoding: 342 61035 352
 Width: 1053
 Flags: W
 HStem: 263 130<102.375 158.752>
@@ -16307,38 +16307,39 @@ EndSplineSet
 EndChar
 
 StartChar: AN
-Encoding: 363 -1 356
+Encoding: 363 60945 356
 Width: 945
-Flags: HW
+Flags: W
+VStem: 660 92<90.335 497.53> 671 81<56 368.562> 816 94<301.841 435.347> 816 83<407.238 488.422> 827 79<269.273 298.44>
 LayerCount: 2
 Fore
 SplineSet
-864 526 m 1
+864 526 m 1x20
  886 509 l 1
- 895 464 899 440 899 436 c 0
- 906 422 910 412 910 407 c 0
+ 895 464 899 440 899 436 c 0x10
+ 906 422 910 412 910 407 c 0x20
  910 396 907 360 900 299 c 1
  904 287 906 278 906 270 c 1
  890 266 878 264 869 264 c 0
- 841 269 827 278 827 293 c 1
+ 841 269 827 278 827 293 c 1x08
  820 308 816 344 816 401 c 2
  816 411 l 2
  816 414 814 427 810 452 c 2
  799 489 l 1
- 803 522 824 534 864 526 c 1
+ 803 522 824 534 864 526 c 1x20
 710 695 m 1
  715 630 l 1
  722 596 725 569 725 549 c 2
  725 516 l 1
  736 500 l 1
  740 447 742 414 742 403 c 0
- 749 363 752 336 752 321 c 0
+ 749 363 752 336 752 321 c 0x80
  752 290 751 229 747 137 c 1
  751 106 752 79 752 56 c 1
  737 45 724 40 715 40 c 0
- 686 54 671 81 671 121 c 1
+ 686 54 671 81 671 121 c 1x40
  664 162 660 238 660 348 c 2
- 660 376 l 2
+ 660 376 l 2x80
  660 383 655 421 644 489 c 2
  633 592 l 1
  620 671 l 1
@@ -16361,56 +16362,58 @@ SplineSet
  218 574 236 589 254 596 c 1
  257 622 264 635 274 635 c 2
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" A N
 EndChar
 
 StartChar: EN
-Encoding: 364 -1 357
+Encoding: 364 60947 357
 Width: 663
-Flags: HW
+Flags: W
+VStem: 16 98<57.8914 129.01 235 297.036> 23 105<423.058 589> 389 92<72.335 479.53> 400 81<38 350.562> 545 94<283.841 417.347> 545 83<389.238 470.422> 556 79<251.273 280.44>
 LayerCount: 2
 Fore
 SplineSet
-593 508 m 1
+593 508 m 1x08
  615 491 l 1
- 624 446 628 422 628 418 c 0
- 635 404 639 394 639 389 c 0
+ 624 446 628 422 628 418 c 0x04
+ 635 404 639 394 639 389 c 0x08
  639 378 636 342 629 281 c 1
  633 269 635 260 635 252 c 1
  619 248 607 246 598 246 c 0
- 570 251 556 260 556 275 c 1
+ 570 251 556 260 556 275 c 1x02
  549 290 545 326 545 383 c 2
  545 393 l 2
  545 396 543 409 539 434 c 2
  528 471 l 1
- 532 504 553 516 593 508 c 1
+ 532 504 553 516 593 508 c 1x08
 439 677 m 1
  444 612 l 1
  451 578 454 551 454 531 c 2
  454 498 l 1
  465 482 l 1
  469 429 471 396 471 385 c 0
- 478 345 481 318 481 303 c 0
+ 478 345 481 318 481 303 c 0x20
  481 272 480 211 476 119 c 1
  480 88 481 61 481 38 c 1
  466 27 453 22 444 22 c 0
- 415 36 400 63 400 103 c 1
+ 415 36 400 63 400 103 c 1x10
  393 144 389 220 389 330 c 2
- 389 358 l 2
+ 389 358 l 2x20
  389 365 384 403 373 471 c 2
  362 574 l 1
  349 653 l 1
  361 691 391 699 439 677 c 1
 62 635 m 1
- 88 635 110 622 128 596 c 1
- 123 565 119 506 114 419 c 1
- 128 412 l 1
+ 88 635 110 622 128 596 c 1x40
+ 123 565 119 506 114 419 c 1x80
+ 128 412 l 1x40
  187 443 235 458 272 458 c 2
  292 458 l 1
  318 443 331 432 331 425 c 0
  331 404 296 380 226 353 c 1
  152 314 114 285 114 268 c 2
- 114 248 l 2
- 116 239 120 235 128 235 c 2
+ 114 248 l 2x80
+ 116 239 120 235 128 235 c 2x40
  134 235 l 1
  205 279 262 301 305 301 c 1
  318 285 324 269 324 255 c 2
@@ -16421,99 +16424,104 @@ SplineSet
  101 38 l 1
  55 38 l 2
  34 38 20 106 16 241 c 1
- 16 294 l 2
- 16 357 18 456 23 589 c 0
+ 16 294 l 2x80
+ 16 357 18 456 23 589 c 0x40
  27 589 40 605 62 635 c 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" E N
 EndChar
 
 StartChar: IN
-Encoding: 365 -1 358
+Encoding: 365 60949 358
 Width: 563
-Flags: HW
+Flags: W
+VStem: 63 111<61.8914 382.58 383 561.363> 70 104<288.176 382.58 383 634.204> 76 111<33.5654 279.76> 287 92<48.335 455.53> 298 81<14 326.562> 443 94<259.841 393.347> 443 83<365.238 446.422> 454 79<227.273 256.44>
 LayerCount: 2
 Fore
 SplineSet
-491 484 m 1
+491 484 m 1x04
  513 467 l 1
- 522 422 526 398 526 394 c 0
- 533 380 537 370 537 365 c 0
+ 522 422 526 398 526 394 c 0x02
+ 533 380 537 370 537 365 c 0x04
  537 354 534 318 527 257 c 1
  531 245 533 236 533 228 c 1
  517 224 505 222 496 222 c 0
- 468 227 454 236 454 251 c 1
+ 468 227 454 236 454 251 c 1x01
  447 266 443 302 443 359 c 2
  443 369 l 2
  443 372 441 385 437 410 c 2
  426 447 l 1
- 430 480 451 492 491 484 c 1
+ 430 480 451 492 491 484 c 1x04
 337 653 m 1
  342 588 l 1
  349 554 352 527 352 507 c 2
  352 474 l 1
  363 458 l 1
  367 405 369 372 369 361 c 0
- 376 321 379 294 379 279 c 0
+ 376 321 379 294 379 279 c 0x10
  379 248 378 187 374 95 c 1
  378 64 379 37 379 14 c 1
  364 3 351 -2 342 -2 c 0
- 313 12 298 39 298 79 c 1
+ 313 12 298 39 298 79 c 1x08
  291 120 287 196 287 306 c 2
- 287 334 l 2
+ 287 334 l 2x10
  287 341 282 379 271 447 c 2
  260 550 l 1
  247 629 l 1
  259 667 289 675 337 653 c 1
 109 651 m 1
  115 651 l 2
- 139 651 159 638 174 612 c 1
+ 139 651 159 638 174 612 c 1x40
  174 422 l 1
  168 383 l 1
- 172 374 174 368 174 363 c 0
+ 172 374 174 368 174 363 c 0x80
  174 352 172 335 168 311 c 0
  168 288 174 203 187 55 c 1
  187 42 l 1
  176 20 159 9 135 9 c 1
- 96 19 76 54 76 114 c 1
- 72 137 67 193 63 284 c 1
- 67 373 70 467 70 566 c 0
+ 96 19 76 54 76 114 c 1x20
+ 72 137 67 193 63 284 c 1x80
+ 67 373 70 467 70 566 c 0x40
  70 602 83 631 109 651 c 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" I N
 EndChar
 
 StartChar: ON
-Encoding: 366 -1 359
+Encoding: 366 60951 359
 Width: 870
-Flags: HW
+Flags: W
+HStem: 60 106<120.306 233.273>
+VStem: 14 106<167.219 324.219> 591 92<71.335 478.53> 602 81<37 349.562> 747 94<282.841 416.347> 747 83<388.238 469.422> 758 79<250.273 279.44>
 LayerCount: 2
 Fore
 SplineSet
-795 507 m 1
+795 507 m 1xc8
  817 490 l 1
- 826 445 830 421 830 417 c 0
- 837 403 841 393 841 388 c 0
+ 826 445 830 421 830 417 c 0xc4
+ 837 403 841 393 841 388 c 0xc8
  841 377 838 341 831 280 c 1
  835 268 837 259 837 251 c 1
  821 247 809 245 800 245 c 0
- 772 250 758 259 758 274 c 1
+ 772 250 758 259 758 274 c 1xc2
  751 289 747 325 747 382 c 2
  747 392 l 2
  747 395 745 408 741 433 c 2
  730 470 l 1
- 734 503 755 515 795 507 c 1
+ 734 503 755 515 795 507 c 1xc8
 641 676 m 1
  646 611 l 1
  653 577 656 550 656 530 c 2
  656 497 l 1
  667 481 l 1
  671 428 673 395 673 384 c 0
- 680 344 683 317 683 302 c 0
+ 680 344 683 317 683 302 c 0xe0
  683 271 682 210 678 118 c 1
  682 87 683 60 683 37 c 1
  668 26 655 21 646 21 c 0
- 617 35 602 62 602 102 c 1
+ 617 35 602 62 602 102 c 1xd0
  595 143 591 219 591 329 c 2
- 591 357 l 2
+ 591 357 l 2xe0
  591 364 586 402 575 470 c 2
  564 573 l 1
  551 652 l 1
@@ -16542,55 +16550,58 @@ SplineSet
  358 439 353 444 353 452 c 1
  235 392 158 343 120 306 c 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" O N
 EndChar
 
 StartChar: UN
-Encoding: 367 -1 360
+Encoding: 367 60953 360
 Width: 830
-Flags: HWO
+Flags: W
+HStem: 103 96<287.25 374.231> 103 77<287.25 359.844>
+VStem: 42 103<180.512 320.993> 556 92<69.335 476.53> 567 81<35 347.562> 712 94<280.841 414.347> 712 83<386.238 467.422> 723 79<248.273 277.44>
 LayerCount: 2
 Fore
 SplineSet
-760 505 m 1
+760 505 m 1x24
  782 488 l 1
- 791 443 795 419 795 415 c 0
- 802 401 806 391 806 386 c 0
+ 791 443 795 419 795 415 c 0x22
+ 802 401 806 391 806 386 c 0x24
  806 375 803 339 796 278 c 1
  800 266 802 257 802 249 c 1
  786 245 774 243 765 243 c 0
- 737 248 723 257 723 272 c 1
+ 737 248 723 257 723 272 c 1x21
  716 287 712 323 712 380 c 2
  712 390 l 2
  712 393 710 406 706 431 c 2
  695 468 l 1
- 699 501 720 513 760 505 c 1
+ 699 501 720 513 760 505 c 1x24
 606 674 m 1
  611 609 l 1
  618 575 621 548 621 528 c 2
  621 495 l 1
  632 479 l 1
  636 426 638 393 638 382 c 0
- 645 342 648 315 648 300 c 0
+ 645 342 648 315 648 300 c 0x30
  648 269 647 208 643 116 c 1
  647 85 648 58 648 35 c 1
  633 24 620 19 611 19 c 0
- 582 33 567 60 567 100 c 1
+ 582 33 567 60 567 100 c 1x28
  560 141 556 217 556 327 c 2
- 556 355 l 2
+ 556 355 l 2x30
  556 362 551 400 540 468 c 2
  529 571 l 1
  516 650 l 1
  528 688 558 696 606 674 c 1
 49 559 m 1
  113 559 145 486 145 341 c 2
- 145 199 l 2
- 145 197 149 191 158 180 c 1
+ 145 199 l 2xa0
+ 145 197 149 191 158 180 c 1x60
  173 180 207 187 260 199 c 1
  350 199 l 1
  395 212 l 1
  472 212 511 191 511 148 c 1
  478 132 429 117 363 103 c 1
- 338 103 l 1
+ 338 103 l 1xa0
  106 71 l 1
  64 71 42 88 42 122 c 0
  42 140 44 148 49 148 c 1
@@ -16602,6 +16613,7 @@ SplineSet
  10 527 l 1
  18 543 31 553 49 559 c 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" U N
 EndChar
 EndChars
 EndSplineFont

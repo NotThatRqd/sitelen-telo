@@ -29,16 +29,15 @@ changes to the font:
     * "N" has an alternate codepoint to uppercase latin letter N
     * "trailingn" can be accessed via ligature "N" + "N"
 - moved individual linja sin consonant glyphs J, K, L, M, N, P, S, T, W, to U+EE00 to U+EE08 with alternate codepoints to their uppercase latin equivalents
-- moved individual linja sin vowel glyphs A, E, I, O, U, to U+EE10 to U+EE14 with alternate codepoints to their uppercase latin equivalents
-- moved "trailingn" to U+EE20
+- moved "trailingn" to U+EE09
 - moved all linja sin glyphs to new codepoints using this formula:
     * codepoint = S_base + (l_idx * N_V * N_T) + (v_idx * N_T) + t_idx
-    * S_base is the starting point of where all the linja sin glyphs are located (it's equal to U+EF00)
-    * l_idx is the index of the starting consonant
-    * v_idx is the index of the medial vowel
+    * S_base = U+EE10 is the starting point of where all the linja sin glyphs are located
+    * l_idx is the index of the starting consonant (0 is none, 1 is J, 2 is K, ...)
+    * v_idx is the index of the medial vowel (0 is A, 1 is E, ...)
     * t_idx is the index of the trailing consonant (0 is none, 1 is trailing N)
-    * N_V is the number of vowels
-    * N_T is the number of trailing consonants (2 because it is including the case where there is none)
+    * N_V = 5 is the number of vowels
+    * N_T = 2 is the number of trailing consonants (2 because it is including the case where there is none)
     * this is modeled off of how it is done for Korean Hangul
 additional changes:
-- convert the main document to use ODT instead of DOCX and update parts about the font
+- update the main document and convert it from DOCX to ODT
