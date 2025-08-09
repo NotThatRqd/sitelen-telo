@@ -1,3 +1,3 @@
 # Sitelen Telo
 
-Please don't use this repository yet, it is not finished. I am still updating it.
+Script for writing Toki Pona. Please read the main PDF named "sitelen_telo_1.02.PDF" to get started.
